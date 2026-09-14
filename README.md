@@ -6,15 +6,15 @@ Website for Herb X Angel Motorshop — a multi-branch motorcycle parts, repair, 
 ## Goals
 
 ### 🏠 Home
-- [x] Hero / main banner
-- [x] Quick links: Shop Now, Find a Branch, Our Services
-- [x] Featured products section (static — needs to pull from real product data)
-- [x] Popular categories (static — needs real category data + links)
-- [x] Promotions section (static — needs to pull active promos)
-- [x] Why Choose Us
-- [x] Branches preview (static — needs real branch data + working map)
-- [x] Company introduction
-- [x] Footer
+- [ ] Hero / main banner
+- [ ] Quick links: Shop Now, Find a Branch, Our Services
+- [ ] Featured products section (static — needs to pull from real product data)
+- [ ] Popular categories (static — needs real category data + links)
+- [ ] Promotions section (static — needs to pull active promos)
+- [ ] Why Choose Us
+- [ ] Branches preview (static — needs real branch data + working map)
+- [ ] Company introduction
+- [ ] Footer
 
 ### 🏢 About Us
 - [ ] Company overview page
